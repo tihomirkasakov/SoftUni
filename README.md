@@ -1,2 +1,2 @@
 # SoftUni-Homeworks
-GitBash conflict
+Resolved conflict!
