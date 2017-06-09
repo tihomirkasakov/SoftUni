@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Money", "Exams\01. Money.csproj", "{6E96E7BE-B129-4F91-B042-848ACD353BD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Harvest", "02. Harvest\02. Harvest.csproj", "{E5557822-F5E4-40A3-A23A-F32CE10BFE0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Match Tickets", "03. Match Tickets\03. Match Tickets.csproj", "{9F5C674A-5C95-4821-ABBB-D2A5BB9BA7CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E96E7BE-B129-4F91-B042-848ACD353BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E96E7BE-B129-4F91-B042-848ACD353BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E96E7BE-B129-4F91-B042-848ACD353BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E96E7BE-B129-4F91-B042-848ACD353BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5557822-F5E4-40A3-A23A-F32CE10BFE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5557822-F5E4-40A3-A23A-F32CE10BFE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5557822-F5E4-40A3-A23A-F32CE10BFE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5557822-F5E4-40A3-A23A-F32CE10BFE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5C674A-5C95-4821-ABBB-D2A5BB9BA7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5C674A-5C95-4821-ABBB-D2A5BB9BA7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5C674A-5C95-4821-ABBB-D2A5BB9BA7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5C674A-5C95-4821-ABBB-D2A5BB9BA7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
